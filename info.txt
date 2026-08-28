@@ -20,7 +20,3 @@ weather_app — a lightweight, personal weather app made to quickly check what's
         Smooth pull-to-refresh (RefreshIndicator) paired with custom screens for loading, errors, and no-internet moments.
 
         Hand-crafted layout optimized for easy one-handed use and quick thumb navigation.
-
-
-
-App was made only in 20 hours.

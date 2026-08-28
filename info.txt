@@ -1,0 +1,26 @@
+weather_app — a lightweight, personal weather app made to quickly check what's happening outside without corporate bloat or annoying ads.
+
+    Framework & Tech Stack: Built with Flutter specifically for Android (because I don't really care about iOS xd).
+
+    APIs Used:
+
+        Open-Meteo API (api.open-meteo.com) — Grabs live weather stats (temp, humidity, wind) plus 7-day and extended 16-day forecasts.
+
+        Open-Meteo Geocoding API (geocoding-api.open-meteo.com) — Handles online city search and coordinate lookups.
+
+        BigDataCloud & OpenStreetMap Nominatim — Reverse geocoding magic to turn raw GPS coordinates into actual city names.
+
+    UI & Design Vibe:
+
+        Clean Material Design 3 aesthetics.
+
+
+        Fast modal search with instant offline filtering across a custom list of 200+ major cities + online fallback.
+
+        Smooth pull-to-refresh (RefreshIndicator) paired with custom screens for loading, errors, and no-internet moments.
+
+        Hand-crafted layout optimized for easy one-handed use and quick thumb navigation.
+
+
+
+App was made only in 20 hours.
